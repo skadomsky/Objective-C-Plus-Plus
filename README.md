@@ -8,11 +8,14 @@ Objective-C, and escape characters in Objective-C++ programming languages.
 for more infomation of UDLs. You can also find this UDL is avaliable [in this repository](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/Objective-C%2B%2B_byLattHsiang.xml).
 
 ## Usage
-0. Download the raw file. <br/>
+0. Download the [released raw file](https://github.com/skadomsky/Objective-C-Plus-Plus/release/). <br/>
 1. Launch Notepad++, click 'Language' on toolbar, then go to 'User Defined Language', and select 'Define your language...'. <br />
 2. Click 'Import...', select the UDL in the popped up window. <br />
-3. You can specify your highlights / folding rule in User-Defined window. When all your works done, click 'x' button on the upper right of the window. <br />
+3. You can specify your highlights / folding rule in User-Defined window. When all your works done, click the 'x' button on the upper right side of the window. <br />
 4. Push 'Language' button again, you will find 'Objective-C++' option on the down side of 'User Defined Language' menu. Choose it, Notepad++ will apply these highlights
 / folding rules immediately.
 
 ## Enhancement
+· The UDL is still in need of more highlight rules for Cocoa/UIKit classes. Obviously we can't import all Cocoa/UIKit classes (for its huge size and rich implementation on almost everything) We suggest to add classes used in a high frequency (for example, `NSString` is a good class to add) This could contribute to a better experience while editing Objective-C++ file for common cross-platform development. <br />
+· Theme adoptation. This UDL has been tested well under the default light and dark theme. You can fork this repository to recreate your
+own UDL file for your unique themes. The UDL files you made for diffrent themes could be uploaded to [upstream](https://github.com/notepad-plus-plus/userDefinedLanguages). It's OK for you to add a duplicate to this repo by submitting a PR.
