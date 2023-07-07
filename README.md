@@ -1,11 +1,11 @@
 # The Objective-C-Plus-Plus UDL
 [![Version](https://img.shields.io/badge/version-2023--06--16-brightgreen)](https://github.com/skadomsky/Objective-C-Plus-Plus/)<br />
 User Defined Languages (UDL) is a feature of [Notepad++ editor](https://notepad-plus-plus.org/), allowing user to define syntax 
-highlights / folding rules of any programming languages. This UDL highlights some fundamental classes in Cocoa, keywords in C++/
+highlights / folding rules of any programming languages. This UDL gives highlights on some fundamental classes in Cocoa, keywords in C++/
 Objective-C, and escape characters in Objective-C++ programming languages.
 <br />
 <br />Please refer to [Notepad++ Offical UDL Collection Repository](https://github.com/notepad-plus-plus/userDefinedLanguages) 
-for more infomation of UDLs. You can also find this UDL is avaliable [in this repository](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/Objective-C%2B%2B_byLattHsiang.xml).
+for more infomation of UDLs. You can also find this UDL avaliable [in this repository](https://github.com/notepad-plus-plus/userDefinedLanguages/blob/master/UDLs/Objective-C%2B%2B_byLattHsiang.xml).
 
 ## Usage
 0. Download the [released raw file](https://github.com/skadomsky/Objective-C-Plus-Plus/release/). <br/>
